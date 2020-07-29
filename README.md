@@ -11,7 +11,8 @@ velodyne사의 VLP-16 및 2개의 CMOS카메라를 모델링하고 Aecobot의 �
 3. Real sense depth camera d435
 4. CMOS camera
 5. Velodyne VLP-16
-![H/W picture](https://github.com/YoonDeukkyoung/Aecobot_Explnation/picture/blob/master/1.png)
+
+![H/W picture](https://github.com/YDK18/AECOBOT_Explanation/tree/master/picture/1.png)
 
 ## 2. OS
 **Ubuntu 16.04 LTS** with **ROS kinetic** installed
