@@ -22,8 +22,12 @@ velodyne사의 VLP-16 및 2개의 CMOS카메라를 모델링하고 Aecobot의 �
 ## 3. 개별 Application (SLAM/Navigation/Motion_Planning) Test
 1. SLAM(Gmapping)
 
+[![Watch the video](https://i.imgur.com/cQjZtvR.png)](https://youtu.be/bSZ0R3qeKXs)       <-- Click youtube channel
 
 2. Navigation
 
+[![Watch the video](https://i.imgur.com/VQyIVP7.png)](https://youtu.be/-XDqJOflzwQ)       <-- Click youtube channel
 
 3. Motion planning
+
+[![Watch the video](https://i.imgur.com/E2cel2K.png)](https://youtu.be/-5zJ51XiCJE)       <-- Click youtube channel
