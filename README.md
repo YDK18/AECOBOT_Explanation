@@ -3,7 +3,7 @@
 **Aecobot**은 일종의 자율주행로봇 플랫폼이다. 본 플랫폼은 로봇티즈사의 Manipulator-H, clearpath의 로봇 이동체 husky UGV, 인텔사의 depth 카메라, 
 velodyne사의 VLP-16 및 2개의 CMOS카메라를 모델링하고 Aecobot의 시뮬레이션 환경 및 실제 플랫폼을 구축하였다. 가상 플랫폼과 실제 플랫폼의 인터페이스를 맞춰 가상 환경에서 알고리즘을 테스트하여 실제 환경에 적용하여 테스트 진행하였다. (소스 코드는 대외비로 비공개)
 
-[![Watch the video](https://i.imgur.com/gHghSR6.png)](https://youtu.be/6dMNyTeqqLY)
+[![Watch the video](https://i.imgur.com/gHghSR6.png)](https://youtu.be/6dMNyTeqqLY)       <-- Click youtube chanel
 
 ## 1. 모델링한 아이템
 
