@@ -16,7 +16,7 @@ velodyne사의 VLP-16 및 카메라를 모델링하고 Aecobot의 시뮬레이�
 
 시뮬레인션에서 모델링한 아이템들은 아래와 같다. 
 1. Husky UGV
-2. Manipulator-H
+2. Robotis Manipulator-H
 3. Real sense depth camera d435
 4. camera
 5. Velodyne VLP-16
