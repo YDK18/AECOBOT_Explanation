@@ -4,7 +4,7 @@
 velodyne사의 VLP-16 및 카메라를 모델링하고 Aecobot의 시뮬레이션 및 실제 플랫폼을 구축하였다. 가상 플랫폼과 실제 플랫폼의 인터페이스를 맞춰 가상 환경에서 알고리즘을 테스트하여 실제 환경에 적용하여 테스트 진행하였다. **(#소스 코드는 대외비로 비공개)**
 
 ![Aecobot](https://github.com/YDK18/AECOBOT_Explanation/blob/master/picture/3.png)
-　　　　　　　　　　　　　　　　　　　　　<Aecobot의 구조>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　*<Aecobot의 구조>*
                                   
 [![Watch the video](https://i.imgur.com/gHghSR6.png)](https://youtu.be/6dMNyTeqqLY)       <-- Click youtube channel
 
