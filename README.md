@@ -26,7 +26,7 @@ velodyne사의 VLP-16 및 카메라를 모델링하고 Aecobot의 시뮬레이�
 ## 2. OS
 **Ubuntu 16.04 LTS** with **ROS kinetic** installed
 
-## 3. 개별 Application (SLAM/Navigation/Motion_Planning) Test
+## 3. Application (SLAM/Navigation/Motion_Planning) Test
 1. SLAM(Gmapping)
 
 [![Watch the video](https://i.imgur.com/cQjZtvR.png)](https://youtu.be/bSZ0R3qeKXs)       <-- Click youtube channel
