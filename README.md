@@ -7,7 +7,7 @@ velodyne사의 VLP-16 및 카메라를 모델링하고 Aecobot의 시뮬레이�
 
 ![Aecobot](https://github.com/YDK18/AECOBOT_Explanation/blob/master/picture/3.png)
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　**<Aecobot의 구조>**
+　　　　　　　　　　　　　　　　　　　　　　　　　**<Aecobot의 구조>**
                                   
                                   
 [![Watch the video](https://i.imgur.com/gHghSR6.png)](https://youtu.be/6dMNyTeqqLY)       <-- Click youtube channel
