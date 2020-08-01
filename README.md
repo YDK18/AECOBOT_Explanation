@@ -40,6 +40,6 @@ velodyne사의 VLP-16 및 카메라를 모델링하고 Aecobot의 시뮬레이�
 [![Watch the video](https://i.imgur.com/E2cel2K.png)](https://youtu.be/-5zJ51XiCJE)       <-- Click youtube channel
 
 ## 비고
-Aecobot 구축 전 알고리즘 테스트를 위한 Testbench
+Aecobot 로봇 구축 전 알고리즘 테스트를 위한 Testbench 구축
 
 ![Testbench](https://github.com/YDK18/AECOBOT_Explanation/blob/master/picture/testbench.png), 　　　　![RViz_Testbench](https://github.com/YDK18/AECOBOT_Explanation/blob/master/picture/testbench2.png)
